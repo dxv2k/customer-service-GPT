@@ -1,3 +1,5 @@
+import dotenv
+dotenv.load_dotenv(".env")
 import datetime
 import os
 import random
